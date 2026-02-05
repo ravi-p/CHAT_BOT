@@ -1,0 +1,2 @@
+This is a test document for upload.
+It contains some sample text to test the RAG system.
